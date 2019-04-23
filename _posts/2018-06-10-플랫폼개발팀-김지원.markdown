@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "플랫폼 개발팀 김지원"
+title:  "플랫폼개발팀 김지원"
 date:   2018-06-10 15:39:40
 preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191910.jpg?alt=media&token=b8351c55-1985-47e5-a55b-d7259b0f04da
 ---
@@ -9,7 +9,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 
 ### 🔍 **부서 및 이름**
 
-#### 플랫폼 개발팀, 김지원
+#### 플랫폼개발팀, 김지원
 
 ### 🔔 **취미, 특기**
 
