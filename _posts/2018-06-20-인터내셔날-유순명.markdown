@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "인터네셔날팀 유순명"
+title:  "인터내셔날팀 유순명"
 date:   2018-06-20 15:39:40
 preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191920.jpg?alt=media&token=41b189f0-e843-4978-816c-caadff2fba08
 ---
@@ -9,7 +9,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 
 ### 🔍 **부서 및 이름**
 
-#### 인터네셔날팀 유순명
+#### 인터내셔날팀 유순명
     
 ### 🔔 **취미, 특기**
 
