@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "푸드팀 이소연"
-date:   2018-06-15 15:39:40
+date:   2018-06-22 15:39:40
 preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191922.jpg?alt=media&token=62eede35-aa55-41e3-8977-b32985171197
 ---
 

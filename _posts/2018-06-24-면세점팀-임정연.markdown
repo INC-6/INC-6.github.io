@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "면세점팀 임정연"
-date:   2018-06-23 15:39:40
+date:   2018-06-24 15:39:40
 preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191924.jpg?alt=media&token=7bf585ef-38d9-4b32-ba67-139486aec157
 ---
 
