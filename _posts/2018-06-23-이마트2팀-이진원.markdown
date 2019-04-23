@@ -23,3 +23,8 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 #### 이마트2팀 DWH 파트에서 CRM 업무를 담당하고 있는 이진원입니다.
     
 #### 잘못한 부분은 즉시 인정하고 긍정적인 자신감과 적극적인 실행력으로 끊임없이 무엇인가를 배워나가겠습니다. :D
+
+### 🔗 동영상 링크
+
+[![Video Label](https://img.youtube.com/vi/VMcHRsKUrcI/0.jpg)](https://www.youtube.com/watch?v=VMcHRsKUrcI) 진원 자기소개
+
