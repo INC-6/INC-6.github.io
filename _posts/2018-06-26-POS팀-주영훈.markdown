@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "POS팀 주영훈"
-date:   2018-06-15 15:39:40
+date:   2018-06-26 15:39:40
 preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191926.jpg?alt=media&token=de677845-d2d3-4644-bd20-fb91189fd865
 ---
 
