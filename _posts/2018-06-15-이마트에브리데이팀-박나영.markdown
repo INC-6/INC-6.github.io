@@ -10,7 +10,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 
 🔍 **부서 및 이름**
 
-    이마트에브리데이팀 박나영
+   이마트에브리데이팀 박나영
 
 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
 

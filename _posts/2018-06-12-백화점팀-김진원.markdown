@@ -11,7 +11,7 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
    백화점팀 
 
-* **취미, 특기**
+ **취미, 특기**
 
      취미 : 영화보기, 여행하기
     

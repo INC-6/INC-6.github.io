@@ -11,7 +11,7 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
   정보보안팀 우상욱
     
-* **취미, 특기**
+ **취미, 특기**
 
   취미: 자전거타고 맛집 탐방
   
