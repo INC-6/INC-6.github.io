@@ -13,8 +13,9 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
 * 취미, 특기
 
-    드라이브 , 독서
-
+        취미 : 드라이브 , 독서
+        특기 : 제테크
+        
 * 담당 업무, 입사 포부, 사우들에게 전하고 싶은 말  
     
     안녕하세요 금년 신입 공채로 입사한 김종호 담당입니다.
