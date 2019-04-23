@@ -2,9 +2,9 @@
 layout: post
 title:  "프라퍼티팀 김지영"
 date:   2015-10-08 15:39:40
-preview: holder.js/300x300?auto=yes
+preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191909.jpg?alt=media&token=5613efcb-c3a6-48a2-935f-3e601fc54531
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191909.jpg?alt=media&token=5613efcb-c3a6-48a2-935f-3e601fc54531)
 
 Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
