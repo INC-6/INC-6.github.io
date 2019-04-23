@@ -14,9 +14,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 
 ### 🔔 **취미, 특기**
 
-   취미: 전시 관람,
-    
-   운동: (계단으로 다닐 예정)
+   취미: 전시 관람, 운동(계단으로 다닐 예정)
 
 ### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
 
