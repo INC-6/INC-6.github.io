@@ -14,7 +14,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 
  **취미, 특기**
 
-    여행 / 운동
+   여행 / 운동
 
 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
  

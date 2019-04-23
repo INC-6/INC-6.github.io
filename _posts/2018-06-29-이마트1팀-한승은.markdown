@@ -14,9 +14,9 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
  **취미, 특기**
 
-        취미 : 라이언 덕질, 출사
+   취미 : 라이언 덕질, 출사
    
-        특기 : 지구력 운동
+   특기 : 지구력 운동
 
 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
  

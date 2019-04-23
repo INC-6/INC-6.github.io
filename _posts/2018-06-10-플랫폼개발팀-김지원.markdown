@@ -9,7 +9,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 
 🔍 **부서 및 이름**
 
-    플랫폼 개발팀, 김지원
+   플랫폼 개발팀, 김지원
 
  **취미, 특기**
 

@@ -13,9 +13,9 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
  **취미, 특기**
 
-     취미 : 영화보기, 여행하기
+   취미 : 영화보기, 여행하기
     
-     특기 : 구글 검색, 리액션
+   특기 : 구글 검색, 리액션
 
 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
 
