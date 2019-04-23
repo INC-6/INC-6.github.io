@@ -7,13 +7,12 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
 ![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191916.jpg?alt=media&token=ffb1af81-c718-4bb1-b9cd-5e1b7d0eb5a5)
 
+🔍 부서 및 이름
 
-* 부서 및 이름
-
-    TV쇼핑팀 박병준
+  TV쇼핑팀 박병준
     
 * 취미, 특기
 
-* 담당 업무, 입사 포부, 사우들에게 전하고 싶은 말 
+🔔 담당 업무, 입사 포부, 사우들에게 전하고 싶은 말 
 
     
