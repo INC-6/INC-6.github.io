@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "이마트1팀 김종호"
 date:   2015-10-07 15:39:40
 preview: holder.js/300x300?auto=yes
 ---

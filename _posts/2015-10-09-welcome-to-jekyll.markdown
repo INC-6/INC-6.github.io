@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "플랫폼 개발팀 김지원"
 date:   2015-10-09 15:39:40
 preview: holder.js/300x300?auto=yes
 ---
