@@ -2,7 +2,7 @@
 layout: post
 title:  "정보보안팀 류가연"
 date:   2018-06-14 15:39:40
-preview:    https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191914.jpg?alt=media&token=a590dd56-494a-4339-9806-668ceca3a0e5
+preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191914.jpg?alt=media&token=a590dd56-494a-4339-9806-668ceca3a0e5
 ---
 
 ![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191914.jpg?alt=media&token=a590dd56-494a-4339-9806-668ceca3a0e5)
