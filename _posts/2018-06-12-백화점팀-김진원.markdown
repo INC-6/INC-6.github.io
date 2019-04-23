@@ -7,17 +7,17 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
 ![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EA%B9%80%EC%A7%84%EC%9B%90.jpg?alt=media&token=ece6eabc-bce6-4ff2-9317-f52f9545b7a1)
 
-🔍 **부서 및 이름**
+### 🔍 **부서 및 이름**
 
    백화점팀 
 
- **취미, 특기**
+### **취미, 특기**
 
    취미 : 영화보기, 여행하기
     
    특기 : 구글 검색, 리액션
 
-🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
+### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
 
    Hello I&C! (Writing in English not to brag myself but to catch your attention, so please don't get offended)
 

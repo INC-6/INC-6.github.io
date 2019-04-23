@@ -8,15 +8,15 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 ![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A3%BC%EC%83%81%ED%9B%88.jpg?alt=media&token=0c3f48bf-f63a-48ca-af52-f16e4089848f)
 
 
-🔍 **부서 및 이름**
+### 🔍 **부서 및 이름**
     
    AI팀 주상훈
 
- **취미, 특기**
+### **취미, 특기**
 
    여행 / 운동
 
-🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
+### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
  
    기술을 진화시키는 AI팀과 함께하게 된 주상훈입니다.
     
