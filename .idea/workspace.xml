@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250b3abe-5a93-4177-ab71-925553aee67b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +16,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="384">
-                <caret line="29" column="181" selection-start-line="29" selection-start-column="181" selection-end-line="29" selection-end-column="181" />
+              <first_editor relative-caret-position="342">
+                <caret line="32" selection-start-line="32" selection-end-line="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,7 +55,6 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2018-06-09-프라퍼티팀-김지영.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-11-인사재무팀-김지현.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-12-백화점팀-김진원.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-13-스타벅스팀-노유정.markdown" />
@@ -80,6 +78,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-06-20-인터네셔날-유순명.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-07-AI팀-권상현.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" />
       </list>
     </option>
   </component>
@@ -154,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555981147787</updated>
-      <workItem from="1555981153549" duration="18237000" />
+      <workItem from="1555981153549" duration="18496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18237000" />
+    <option name="totallyTimeSpent" value="18496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -168,7 +167,7 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17228661" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4989154" visible="true" weight="0.38684505" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4989154" visible="true" weight="0.40022296" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010846" side_tool="true" weight="0.35187286" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3291714" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -325,16 +324,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="442">
             <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="27" selection-start-line="27" selection-end-line="27" />
           </first_editor>
           <second_editor />
         </state>
@@ -563,8 +552,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="384">
-            <caret line="29" column="181" selection-start-line="29" selection-start-column="181" selection-end-line="29" selection-end-column="181" />
+          <first_editor relative-caret-position="328">
+            <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="32" selection-start-line="32" selection-end-line="32" />
           </first_editor>
           <second_editor />
         </state>
