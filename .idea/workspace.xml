@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="250b3abe-5a93-4177-ab71-925553aee67b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-    </list>
+    <list default="true" id="250b3abe-5a93-4177-ab71-925553aee67b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -40,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-15-이마트에브리데이팀-박나영.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+              <first_editor relative-caret-position="69">
+                <caret line="4" column="182" selection-start-line="4" selection-start-column="182" selection-end-line="4" selection-end-column="182" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,9 +87,9 @@
         <option value="$PROJECT_DIR$/_posts/2018-06-11-인사재무팀-김지현.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-13-스타벅스팀-노유정.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-14-정보보안팀-류가연.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-15-이마트에브리데이팀-박나영.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-12-백화점팀-김진원.markdown" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-15-이마트에브리데이팀-박나영.markdown" />
       </list>
     </option>
   </component>
@@ -172,21 +170,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555981147787</updated>
-      <workItem from="1555981153549" duration="5704000" />
+      <workItem from="1555981153549" duration="5952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5704000" />
+    <option name="totallyTimeSpent" value="5952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21022129" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21022129" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49947312" visible="true" weight="0.34559643" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49947312" visible="true" weight="0.34559643" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50052685" side_tool="true" weight="0.34559643" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3291714" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -421,8 +418,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-15-이마트에브리데이팀-박나영.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+          <first_editor relative-caret-position="69">
+            <caret line="4" column="182" selection-start-line="4" selection-start-column="182" selection-end-line="4" selection-end-column="182" />
           </first_editor>
           <second_editor />
         </state>
