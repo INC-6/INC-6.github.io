@@ -12,7 +12,7 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
     
    이마트1팀 한승은
 
-### **취미, 특기**
+### 🔔 **취미, 특기**
 
    취미 : 라이언 덕질, 출사
    

@@ -12,7 +12,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
     
    AI팀 주상훈
 
-### **취미, 특기**
+### 🔔 **취미, 특기**
 
    여행 / 운동
 

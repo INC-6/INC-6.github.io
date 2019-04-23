@@ -12,7 +12,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
     
    푸드팀 이소연
 
-### **취미, 특기**
+### 🔔 **취미, 특기**
 
    축구, 일정 관리
 

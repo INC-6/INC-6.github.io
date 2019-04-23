@@ -11,7 +11,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 
    플랫폼 개발팀, 김지원
 
-### **취미, 특기**
+### 🔔 **취미, 특기**
 
    취미: 영상제작
     
