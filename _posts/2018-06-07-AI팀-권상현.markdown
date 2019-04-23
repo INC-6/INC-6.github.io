@@ -23,4 +23,4 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
 #### 인턴 기간 동안 느낀 열정과 순수함의 초심을 잃지 않으며, 모든 일에 적극적인 사원이 되고자 합니다.
 
-####매 순간 최선을 다하며 열심히 지내겠습니다. 감사합니다.
+#### 매 순간 최선을 다하며 열심히 지내겠습니다. 감사합니다.
