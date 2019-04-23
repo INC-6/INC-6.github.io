@@ -26,5 +26,5 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
 ### 🔗 동영상 링크
 
-[![Video Label](https://img.youtube.com/vi/VMcHRsKUrcI/0.jpg)](https://www.youtube.com/watch?v=VMcHRsKUrcI) 진원 자기소개
+[![Video Label](https://img.youtube.com/vi/VMcHRsKUrcI/0.jpg)](https://www.youtube.com/watch?v=VMcHRsKUrcI)
 
