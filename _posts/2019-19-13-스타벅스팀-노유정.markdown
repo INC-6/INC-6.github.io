@@ -8,7 +8,7 @@ preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/
 {% capture images %}
 https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%98%A4%EB%A7%8C%EC%9B%90%EC%9C%A0%EC%A0%95.jpg
 {% endcapture %}
-{% include gallery images=images caption="이 사진을 보는 모두 부자되길." cols=1 %}
+{% include gallery images=images caption="이 사진을 보는 여러분 모두 부자되세요~!" cols=1 %}
 
 
 ---
