@@ -16,7 +16,7 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
 #### 취미: 기록
     
-#### 특기: 가치에 의미 두기.
+#### 특기: 가치에 의미 두기
 
 ### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
  
@@ -25,7 +25,7 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 #### 잘못한 부분은 즉시 인정하고 긍정적인 자신감과 적극적인 실행력으로 끊임없이 무엇인가를 배워나가겠습니다. :D
 
 ### 🔗 동영상 링크
-##### (사내망 이용시 안보일수도 있습니다.)
+##### (사내망 이용 시 안 보일 수도 있습니다.)
 
 [![Video Label](https://img.youtube.com/vi/VMcHRsKUrcI/0.jpg)](https://www.youtube.com/watch?v=VMcHRsKUrcI)
 
