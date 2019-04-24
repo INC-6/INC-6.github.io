@@ -2,10 +2,10 @@
 layout: post
 title:  "AI팀 권상현"
 date:   2018-06-07 15:39:40
-preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191907.jpg?alt=media&token=5917b7de-0ed4-408d-8eb1-d37bcfdab246
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191907.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EA%B6%8C%EC%83%81%ED%98%84.jpg?alt=media&token=14165513-e02d-4eaf-a610-def35bd6bf27)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EA%B6%8C%EC%83%81%ED%98%84.jpg)
 
 ### 🔍 **부서 및 이름**
     
