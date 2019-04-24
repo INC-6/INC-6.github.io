@@ -5,10 +5,10 @@ date:   2018-06-19 15:39:40
 preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191919.jpg?alt=media&token=e85cc68a-f126-4d24-9780-315751b49d25
 ---
 
-{% capture images01 %}
+{% capture images %}
     https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%84%ED%95%993.jpg?alt=media&token=aa320af9-5c2f-4965-81e0-cac051511126
 {% endcapture %}
-{% include gallery images=images01 caption="마카오에서." cols=1 %}
+{% include gallery images=images caption="마카오에서." cols=1 %}
 
 ### 🔍 **부서 및 이름**
 
