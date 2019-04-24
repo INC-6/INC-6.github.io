@@ -6,9 +6,8 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 ---
 
 {% capture images01 %}
-    https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%84%ED%95%993.jpg?alt=media&token=aa320af9-5c2f-4965-81e0-cac051511126)
+    https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%84%ED%95%993.jpg?alt=media&token=aa320af9-5c2f-4965-81e0-cac051511126
 {% endcapture %}
-
 {% include gallery images=images01 caption="마카오에서." cols=1 %}
 
 ### 🔍 **부서 및 이름**
