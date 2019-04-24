@@ -5,7 +5,11 @@ date:   2019-06-13 15:39:40
 preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191913.jpg
 ---
 
-![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9C%A0%EC%A0%95.jpg)
+{% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%98%A4%EB%A7%8C%EC%9B%90%EC%9C%A0%EC%A0%95.jpg
+{% endcapture %}
+{% include gallery images=images caption="이 사진을 보는 모두 부자되길." cols=1 %}
+
 
 ---
 
