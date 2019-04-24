@@ -7,6 +7,8 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
 ![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A2%85%ED%98%B8.jpg?alt=media&token=f10a731d-5cd7-4adb-8328-08eca85a6595)
 
+---
+
 ### 🔍 **부서 및 이름**
 
 #### 이마트1팀, 김종호

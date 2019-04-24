@@ -7,6 +7,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 
 ![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%80%EC%98%81.jpg?alt=media&token=8582b13d-c6a1-4a68-b874-e0cd3677dee2)
 
+---
 ### 🔍 **부서 및 이름**
 
 #### 프라퍼티팀 김지영

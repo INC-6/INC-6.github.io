@@ -7,6 +7,8 @@ preview:   https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/
 
 ![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%83%81%EC%9D%80.jpg?alt=media&token=c398059e-d4c0-4eec-a339-cbf05558f0b3)
 
+---
+
 ### 🔍 **부서 및 이름**
 
 #### AI팀 이상은

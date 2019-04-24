@@ -7,6 +7,8 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 
 ![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%9C%A0%EC%88%9C%EB%AA%85.jpeg?alt=media&token=9719c8e9-66c0-4552-9d89-b6ec2538de41)
 
+---
+
 ### 🔍 **부서 및 이름**
 
 #### 인터내셔날팀 유순명

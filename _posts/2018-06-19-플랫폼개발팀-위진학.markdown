@@ -10,6 +10,8 @@ https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80
 {% endcapture %}
 {% include gallery images=images caption="마카오에서." cols=1 %}
 
+---
+
 ### 🔍 **부서 및 이름**
 
 #### 플랫폼개발팀 위진학
