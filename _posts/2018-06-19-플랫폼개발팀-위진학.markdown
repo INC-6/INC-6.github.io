@@ -6,7 +6,6 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 ---
 
 ![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%84%ED%95%993.jpg?alt=media&token=aa320af9-5c2f-4965-81e0-cac051511126)
-<img src="/_asset/진학3.jpg" alt="test image size" height="50%" width="50%">
 
 ### 🔍 **부서 및 이름**
 
@@ -28,4 +27,8 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 
 #### 잘 부탁드립니다. 
 
-![Picture 2]()
+{% capture images %}
+    https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%84%ED%95%992.jpg?alt=media&token=36914866-0c34-4c92-8979-48351a481b71
+{% endcapture %}
+
+{% include gallery images=images caption="동기들과 떠난 제주도" cols=1 %}
