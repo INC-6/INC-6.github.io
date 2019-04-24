@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250b3abe-5a93-4177-ab71-925553aee67b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,35 +15,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-19-플랫폼개발팀-위진학.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="176">
-                <caret line="8" column="168" selection-start-line="8" selection-start-column="168" selection-end-line="8" selection-end-column="168" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="376">
-                <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <first_editor relative-caret-position="296">
+                <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/gallery">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -56,7 +35,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_posts/2015-10-06-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_posts/2015-10-07-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_posts/2015-10-08-welcome-to-jekyll.markdown" />
@@ -87,11 +65,9 @@
         <option value="$PROJECT_DIR$/_posts/2018-06-20-인터네셔날-유순명.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-12-백화점팀-김진원.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-16-TV쇼핑팀-박병준.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-20-인터내셔날-유순명.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-15-에브리데이팀-박나영.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_posts/2018-06-14-정보보안팀-류가연.markdown" />
@@ -102,6 +78,9 @@
         <option value="$PROJECT_DIR$/_posts/2018-06-26-POS팀-주영훈.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-09-프라퍼티팀-김지영.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-19-플랫폼개발팀-위진학.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown" />
+        <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" />
       </list>
     </option>
   </component>
@@ -137,6 +116,11 @@
               <item name="urban-theme-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="urban-theme-master" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="urban-theme-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urban-theme-master" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,19 +169,19 @@
       <option name="presentableId" value="Default" />
       <updated>1555981147787</updated>
       <workItem from="1555981153549" duration="21829000" />
-      <workItem from="1556063428032" duration="5953000" />
+      <workItem from="1556063428032" duration="6275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27782000" />
+    <option name="totallyTimeSpent" value="28104000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="536" y="0" width="1384" height="1040" extended-state="0" />
+    <frame x="-2" y="0" width="1922" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.3546638" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18259023" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4989154" visible="true" weight="0.4506243" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010846" side_tool="true" weight="0.35187286" />
@@ -252,16 +236,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -357,16 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="328">
-            <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-백화점팀-김진원.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -427,31 +391,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="220">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-14-정보보안팀-류가연.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="154">
             <caret line="7" column="180" selection-start-line="7" selection-start-column="180" selection-end-line="7" selection-end-column="180" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-07-AI팀-권상현.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="189" selection-start-line="7" selection-start-column="189" selection-end-line="7" selection-end-column="189" />
           </first_editor>
           <second_editor />
         </state>
@@ -472,16 +416,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="154">
             <caret line="7" column="180" selection-start-line="7" selection-start-column="180" selection-end-line="7" selection-end-column="180" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-22-푸드팀-이소연.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="367">
-            <caret line="24" column="181" selection-start-line="24" selection-start-column="181" selection-end-line="24" selection-end-column="181" />
           </first_editor>
           <second_editor />
         </state>
@@ -595,21 +529,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-19-플랫폼개발팀-위진학.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="168" selection-start-line="8" selection-start-column="168" selection-end-line="8" selection-end-column="168" />
+          <first_editor relative-caret-position="54">
+            <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="376">
-            <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <first_editor relative-caret-position="86">
+            <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-22-푸드팀-이소연.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-07-AI팀-권상현.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="189" selection-start-line="7" selection-start-column="189" selection-end-line="7" selection-end-column="189" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-19-플랫폼개발팀-위진학.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="11" selection-start-line="7" selection-end-line="10" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="296">
+            <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
