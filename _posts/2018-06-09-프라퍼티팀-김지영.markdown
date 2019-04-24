@@ -5,7 +5,7 @@ date:   2018-06-09 15:39:40
 preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191909.jpg?alt=media&token=5613efcb-c3a6-48a2-935f-3e601fc54531
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191909.jpg?alt=media&token=5613efcb-c3a6-48a2-935f-3e601fc54531)
+![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%80%EC%98%81.jpg?alt=media&token=8582b13d-c6a1-4a68-b874-e0cd3677dee2)
 
 ### 🔍 **부서 및 이름**
 

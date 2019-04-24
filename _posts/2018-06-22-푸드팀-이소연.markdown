@@ -5,7 +5,7 @@ date:   2018-06-22 15:39:40
 preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191922.jpg?alt=media&token=62eede35-aa55-41e3-8977-b32985171197
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191922.jpg?alt=media&token=62eede35-aa55-41e3-8977-b32985171197)
+![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%86%8C%EC%97%B01.jpg?alt=media&token=2036b5fc-7819-4116-b3f7-83aa9533cca9)
 
 
 ### 🔍 **부서 및 이름**
@@ -20,4 +20,6 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
  
 #### 외부사업장에서 근무하다 보니 인턴십에서 교육받은 것과 차이가 생기는 부분이 있는 거 같습니다.
   
-#### 이런 부분들도 지혜롭고 슬기롭게 대처하고 나아가는 신입사원이 되도록 노력하겠습니다.
+#### 이런 부분들도 지혜롭고 슬기롭게 대처해 나아가는 신입사원이 되도록 노력하겠습니다.
+
+![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%86%8C%EC%97%B02.jpg?alt=media&token=a0786983-af6e-415c-b675-65d9a33c9248)
