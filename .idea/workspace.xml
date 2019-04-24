@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="250b3abe-5a93-4177-ab71-925553aee67b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-09-프라퍼티팀-김지영.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-09-프라퍼티팀-김지영.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-11-인사재무팀-김지현.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-11-인사재무팀-김지현.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-12-백화점팀-김진원.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-12-백화점팀-김진원.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-13-스타벅스팀-노유정.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-13-스타벅스팀-노유정.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-14-정보보안팀-류가연.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-14-정보보안팀-류가연.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-15-에브리데이팀-박나영.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-15-에브리데이팀-박나영.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-16-TV쇼핑팀-박병준.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-16-TV쇼핑팀-박병준.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-17-인사재무팀-서정민.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-17-인사재무팀-서정민.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-18-정보보안팀-우상욱.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-18-정보보안팀-우상욱.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-19-플랫폼개발팀-위진학.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-19-플랫폼개발팀-위진학.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-20-인터내셔날-유순명.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-20-인터내셔날-유순명.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-21-AI팀-이상은.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-21-AI팀-이상은.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-22-푸드팀-이소연.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-22-푸드팀-이소연.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-24-면세점팀-임정연.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-24-면세점팀-임정연.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-25-AI팀-주상훈.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-25-AI팀-주상훈.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-26-POS팀-주영훈.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-26-POS팀-주영훈.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-27-스타벅스팀-최은총.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-27-스타벅스팀-최은총.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-28-면세점팀-최필성.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-28-면세점팀-최필성.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-29-이마트1팀-한승은.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-29-이마트1팀-한승은.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-30-이마트2팀-허신행.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-30-이마트2팀-허신행.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-31-POS팀-황동욱.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-31-POS팀-황동욱.markdown" afterDir="false" />
-    </list>
+    <list default="true" id="250b3abe-5a93-4177-ab71-925553aee67b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -39,12 +13,120 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-26-POS팀-주영훈.markdown">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-TV쇼핑팀-박병준.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="88">
-                <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
+              <first_editor relative-caret-position="-242">
+                <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-17-인사재무팀-서정민.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="154">
+                <caret line="7" column="130" selection-start-line="7" selection-start-column="130" selection-end-line="7" selection-end-column="130" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-정보보안팀-우상욱.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="198">
+                <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-19-플랫폼개발팀-위진학.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="185">
+                <caret line="35" column="112" selection-start-line="35" selection-start-column="112" selection-end-line="35" selection-end-column="112" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-20-인터내셔날-유순명.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="396">
+                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-21-AI팀-이상은.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="154">
+                <caret line="7" column="124" selection-start-line="7" selection-start-column="124" selection-end-line="7" selection-end-column="124" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-22-푸드팀-이소연.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="273">
+                <caret line="25" column="125" selection-start-line="25" selection-start-column="125" selection-end-line="25" selection-end-column="125" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-13-스타벅스팀-노유정.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="198">
+                <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-14-정보보안팀-류가연.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="97">
+                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-15-에브리데이팀-박나영.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="154">
+                <caret line="7" column="130" selection-start-line="7" selection-start-column="130" selection-end-line="7" selection-end-column="130" />
               </first_editor>
               <second_editor />
             </state>
@@ -95,16 +177,16 @@
         <option value="$PROJECT_DIR$/_posts/2018-06-19-플랫폼개발팀-위진학.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-20-인터내셔날-유순명.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-21-AI팀-이상은.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-26-POS팀-주영훈.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-27-스타벅스팀-최은총.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-28-면세점팀-최필성.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-29-이마트1팀-한승은.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-30-이마트2팀-허신행.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-31-POS팀-황동욱.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-22-푸드팀-이소연.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-24-면세점팀-임정연.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-25-AI팀-주상훈.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-26-POS팀-주영훈.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-27-스타벅스팀-최은총.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-28-면세점팀-최필성.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-29-이마트1팀-한승은.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-30-이마트2팀-허신행.markdown" />
       </list>
     </option>
   </component>
@@ -190,12 +272,12 @@
       <workItem from="1555981153549" duration="21829000" />
       <workItem from="1556063428032" duration="7738000" />
       <workItem from="1556073014662" duration="239000" />
-      <workItem from="1556073298346" duration="4349000" />
+      <workItem from="1556073298346" duration="4665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34155000" />
+    <option name="totallyTimeSpent" value="34471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1924" height="1040" extended-state="0" />
@@ -368,11 +450,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown">
+    <entry file="file://$PROJECT_DIR$/_asset/셀카/가연.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-31-POS팀-황동욱.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="273">
-            <caret line="33" column="125" selection-start-line="33" selection-start-column="125" selection-end-line="33" selection-end-column="125" />
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="131" selection-start-line="7" selection-start-column="131" selection-end-line="7" selection-end-column="131" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-24-면세점팀-임정연.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="308">
+            <caret line="29" column="125" selection-start-line="29" selection-start-column="125" selection-end-line="29" selection-end-column="125" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-25-AI팀-주상훈.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="133" selection-start-line="7" selection-start-column="133" selection-end-line="7" selection-end-column="133" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-26-POS팀-주영훈.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="124" selection-start-line="7" selection-start-column="124" selection-end-line="7" selection-end-column="124" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-27-스타벅스팀-최은총.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="133" selection-start-line="7" selection-start-column="133" selection-end-line="7" selection-end-column="133" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-면세점팀-최필성.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-101">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-29-이마트1팀-한승은.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-30-이마트2팀-허신행.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="133" selection-start-line="7" selection-start-column="133" selection-end-line="7" selection-end-column="133" />
           </first_editor>
           <second_editor />
         </state>
@@ -388,12 +553,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_asset/셀카/가연.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="726">
+            <caret line="33" column="125" selection-start-line="33" selection-start-column="125" selection-end-line="33" selection-end-column="125" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-09-프라퍼티팀-김지영.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="154">
             <caret line="7" column="124" selection-start-line="7" selection-start-column="124" selection-end-line="7" selection-end-column="124" />
           </first_editor>
@@ -404,7 +576,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="273">
+          <first_editor relative-caret-position="528">
             <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           </first_editor>
           <second_editor />
@@ -444,7 +616,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-14-정보보안팀-류가연.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
+          <first_editor relative-caret-position="97">
             <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           </first_editor>
           <second_editor />
@@ -464,7 +636,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-TV쇼핑팀-박병준.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="88">
+          <first_editor relative-caret-position="-242">
             <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           </first_editor>
           <second_editor />
@@ -484,58 +656,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-정보보안팀-우상욱.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="111" selection-start-line="8" selection-start-column="111" selection-end-line="8" selection-end-column="111" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-27-스타벅스팀-최은총.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-면세점팀-최필성.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-29-이마트1팀-한승은.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="126" selection-start-line="4" selection-start-column="126" selection-end-line="4" selection-end-column="126" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-30-이마트2팀-허신행.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-31-POS팀-황동욱.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
+          <first_editor relative-caret-position="198">
+            <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -554,8 +676,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-20-인터내셔날-유순명.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-264">
-            <caret line="7" column="134" selection-start-line="7" selection-start-column="134" selection-end-line="7" selection-end-column="134" />
+          <first_editor relative-caret-position="396">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           </first_editor>
           <second_editor />
         </state>
@@ -571,51 +693,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-23-이마트2팀-이진원.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="131" selection-start-line="7" selection-start-column="131" selection-end-line="7" selection-end-column="131" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-22-푸드팀-이소연.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="273">
             <caret line="25" column="125" selection-start-line="25" selection-start-column="125" selection-end-line="25" selection-end-column="125" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-24-면세점팀-임정연.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="308">
-            <caret line="29" column="125" selection-start-line="29" selection-start-column="125" selection-end-line="29" selection-end-column="125" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-25-AI팀-주상훈.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="133" selection-start-line="7" selection-start-column="133" selection-end-line="7" selection-end-column="133" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-26-POS팀-주영훈.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="127" selection-start-line="4" selection-start-column="127" selection-end-line="4" selection-end-column="127" />
           </first_editor>
           <second_editor />
         </state>
