@@ -2,10 +2,10 @@
 layout: post
 title:  "면세점팀 최필성"
 date:   2018-06-28 15:39:40
-preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191928.jpg?alt=media&token=30c3cdf7-6c55-46f6-9312-830e210b50d0
+preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191928.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%ED%95%84%EC%84%B1.jpg?alt=media&token=57f88459-adcb-4e69-9e19-2d824fc7ce7f)
+![Picture 1](https://github.com/INC-6/INC-6.github.io/blob/master/_asset/%EC%85%80%EC%B9%B4/%ED%95%84%EC%84%B1.jpg?raw=true)
 
 ---
 

@@ -2,10 +2,10 @@
 layout: post
 title:  "인사재무팀 김지현"
 date:   2018-06-11 15:39:40
-preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191911.jpg?alt=media&token=08f90a74-02db-4362-bae7-a1906cd14bba
+preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191911.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191911.jpg?alt=media&token=08f90a74-02db-4362-bae7-a1906cd14bba)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191911.jpg)
 
 ---
 

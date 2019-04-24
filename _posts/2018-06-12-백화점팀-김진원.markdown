@@ -2,10 +2,10 @@
 layout: post
 title:  "백화점팀 김진원"
 date:   2018-06-12 15:39:40
-preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191912.jpg?alt=media&token=7676ee63-238b-445c-b2bd-8fe332f456b6
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191912.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EA%B9%80%EC%A7%84%EC%9B%90.jpg?alt=media&token=ece6eabc-bce6-4ff2-9317-f52f9545b7a1)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EA%B9%80%EC%A7%84%EC%9B%90.jpg)
 
 ---
 

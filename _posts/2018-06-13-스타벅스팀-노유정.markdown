@@ -2,10 +2,10 @@
 layout: post
 title:  "스타벅스팀 노유정"
 date:   2018-06-13 15:39:40
-preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191913.jpg?alt=media&token=1520b8bf-c8dd-48e2-9147-507ca9cc543d
+preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191913.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%9C%A0%EC%A0%95.jpg?alt=media&token=97735d4e-5dd3-432a-bb1b-12f107e9ff3f)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9C%A0%EC%A0%95.jpg)
 
 ---
 

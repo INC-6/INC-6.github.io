@@ -2,10 +2,10 @@
 layout: post
 title:  "이마트2팀 이진원"
 date:   2018-06-23 15:39:40
-preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191923.jpg?alt=media&token=e806e157-9cfd-4bd5-a314-2e005ef00c80
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191923.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191923.jpg?alt=media&token=e806e157-9cfd-4bd5-a314-2e005ef00c80)
+![Picture 1]( https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191923.jpg)
 
 ---
 

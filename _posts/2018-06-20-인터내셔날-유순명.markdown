@@ -2,10 +2,10 @@
 layout: post
 title:  "인터내셔날팀 유순명"
 date:   2018-06-20 15:39:40
-preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191920.jpg?alt=media&token=41b189f0-e843-4978-816c-caadff2fba08
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191920.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%9C%A0%EC%88%9C%EB%AA%85.jpeg?alt=media&token=9719c8e9-66c0-4552-9d89-b6ec2538de41)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9C%A0%EC%88%9C%EB%AA%85.jpeg)
 
 ---
 

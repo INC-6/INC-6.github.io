@@ -2,10 +2,10 @@
 layout: post
 title:  "이마트1팀 김종호"
 date:   2018-06-08  15:39:40
-preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191908.jpg?alt=media&token=209ba261-d7e4-4bcb-be4c-45ef877c3772
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191908.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A2%85%ED%98%B8.jpg?alt=media&token=f10a731d-5cd7-4adb-8328-08eca85a6595)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%A2%85%ED%98%B8.jpg)
 
 ---
 
@@ -31,4 +31,4 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
  
 #### 감사합니다.
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A2%85%ED%98%B82.jpg?alt=media&token=e62b3c37-0399-4e1c-a77d-16b92c016181)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%A2%85%ED%98%B82.jpg)

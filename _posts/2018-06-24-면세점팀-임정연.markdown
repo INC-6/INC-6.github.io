@@ -2,10 +2,10 @@
 layout: post
 title:  "면세점팀 임정연"
 date:   2018-06-24 15:39:40
-preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191924.jpg?alt=media&token=7bf585ef-38d9-4b32-ba67-139486aec157
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191924.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A0%95%EC%97%B01.jpg?alt=media&token=3c2e17e0-2611-4f07-b7dd-c0d0d9038f56)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%A0%95%EC%97%B01.jpg)
 
 ---
 
@@ -27,4 +27,4 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
    
 #### 이를 잊지 않는 사원이 되겠습니다!
   
-![Picture 2](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A0%95%EC%97%B02.jpg?alt=media&token=a0bf17ad-d04a-487b-883f-db91a29c8973)
+![Picture 2](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%A0%95%EC%97%B02.jpg)

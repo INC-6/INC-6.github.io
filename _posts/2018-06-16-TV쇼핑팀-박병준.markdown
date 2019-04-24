@@ -2,11 +2,11 @@
 layout: post
 title:  "TV쇼핑팀 박병준"
 date:   2018-06-16 15:39:40
-preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191916.jpg?alt=media&token=ffb1af81-c718-4bb1-b9cd-5e1b7d0eb5a5
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191916.jpg
 ---
 
 {% capture images %}
-https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EB%B3%91%EC%A4%80.jpg?alt=media&token=eae41ff9-4a09-4cbe-b4de-aa44cda21e72
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EB%B3%91%EC%A4%80.jpg
 {% endcapture %}
 {% include gallery images=images caption="리즈." cols=1 %}
 

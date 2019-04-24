@@ -2,10 +2,10 @@
 layout: post
 title:  "AI팀 이상은"
 date:   2018-06-21 15:39:40
-preview:   https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191921.jpg?alt=media&token=c8804701-fb4e-4940-9359-9d42357a93d3
+preview:   https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191921.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%83%81%EC%9D%80.jpg?alt=media&token=c398059e-d4c0-4eec-a339-cbf05558f0b3)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%83%81%EC%9D%80.jpg)
 
 ---
 

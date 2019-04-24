@@ -2,11 +2,11 @@
 layout: post
 title:  "플랫폼개발팀 위진학"
 date:   2018-06-19 15:39:40
-preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191919.jpg?alt=media&token=e85cc68a-f126-4d24-9780-315751b49d25
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191919.jpg
 ---
 
 {% capture images %}
-https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%84%ED%95%991.jpg?alt=media&token=1992eaca-6dc7-4969-a733-21308f71c47d
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%A7%84%ED%95%991.jpg
 {% endcapture %}
 {% include gallery images=images caption="마카오에서." cols=1 %}
 
@@ -33,7 +33,7 @@ https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80
 #### 잘 부탁드립니다. 
 
 {% capture images %}
-    https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%84%ED%95%992.jpg?alt=media&token=36914866-0c34-4c92-8979-48351a481b71
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%A7%84%ED%95%992.jpg
 {% endcapture %}
 
 {% include gallery images=images caption="동기들과 떠난 제주도" cols=1 %}

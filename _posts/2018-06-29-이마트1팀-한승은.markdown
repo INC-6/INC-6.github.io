@@ -2,10 +2,10 @@
 layout: post
 title:  "이마트1팀 한승은"
 date:   2018-06-29 15:39:40
-preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191929.jpg?alt=media&token=353657b0-7290-4c7a-8110-9f0f9359f425
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191929.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%ED%95%9C%EC%8A%B9%EC%9D%80.jpg?alt=media&token=da511014-210f-481b-a4ec-f07f0854333d)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%ED%95%9C%EC%8A%B9%EC%9D%80.jpg)
 
 ---
 

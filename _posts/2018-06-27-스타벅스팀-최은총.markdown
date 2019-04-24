@@ -2,10 +2,10 @@
 layout: post
 title:  "스타벅스팀 최은총"
 date:   2018-06-27 15:39:40
-preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191927.jpg?alt=media&token=1f9de9bc-9154-4579-b352-2b5fa34d4112
+preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191927.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%B5%9C%EC%9D%80%EC%B4%9D.jpg?alt=media&token=60bec272-944b-49ef-b95c-d37488f4b44b)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%B5%9C%EC%9D%80%EC%B4%9D.jpg)
 
 ---
 

@@ -2,10 +2,10 @@
 layout: post
 title:  "플랫폼개발팀 김지원"
 date:   2018-06-10 15:39:40
-preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84%2F191910.jpg?alt=media&token=b8351c55-1985-47e5-a55b-d7259b0f04da
+preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191910.jpg
 ---
 
-![Picture 1](https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%80%EC%9B%90.jpg?alt=media&token=ce5fc7d2-a78e-4c72-a263-5c85399e550c)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%A7%80%EC%9B%90.jpg)
 
 ---
 
@@ -20,7 +20,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
 #### 특기:야구
 
 {% capture images %}
-   https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%80%EC%9B%9002.jpg?alt=media&token=0e4afe42-1dd2-4889-b735-2d26ed2155fa
+ https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%A7%80%EC%9B%9002.jpg
 {% endcapture %}
 {% include gallery images=images caption="전국 동아리 야구 대회에서." cols = 1 %}
 
