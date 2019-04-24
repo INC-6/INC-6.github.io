@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="250b3abe-5a93-4177-ab71-925553aee67b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-19-13-스타벅스팀-노유정.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-19-13-스타벅스팀-노유정.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,77 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feed.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-330" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LICENSE">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-19-13-스타벅스팀-노유정.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="391">
+                <caret line="32" column="76" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
+              </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/urban.gemspec">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="52" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -147,16 +85,15 @@
         <option value="$PROJECT_DIR$/_posts/2018-06-10-플랫폼개발팀-김지원.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-08-이마트1팀-김종호.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-17-인사재무팀-서정민.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2019-19-13-스타벅스팀-노유정.markdown" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-19-13-스타벅스팀-노유정.markdown" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="15" />
-    <option name="y" value="33" />
-    <option name="width" value="1905" />
-    <option name="height" value="1007" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="671" />
+    <option name="width" value="1249" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -246,21 +183,20 @@
       <workItem from="1555981153549" duration="21829000" />
       <workItem from="1556063428032" duration="7738000" />
       <workItem from="1556073014662" duration="239000" />
-      <workItem from="1556073298346" duration="9088000" />
+      <workItem from="1556073298346" duration="9392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38894000" />
+    <option name="totallyTimeSpent" value="39198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18124342" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18124342" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4989154" visible="true" weight="0.44370124" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4989154" visible="true" weight="0.44370124" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010846" side_tool="true" weight="0.35187286" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3291714" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -592,16 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-19-13-스타벅스팀-노유정.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="174">
-            <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-19-11-인사재무팀-김지현.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -684,6 +610,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="52" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-19-13-스타벅스팀-노유정.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="32" column="76" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
