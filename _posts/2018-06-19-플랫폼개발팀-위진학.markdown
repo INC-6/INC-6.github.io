@@ -6,7 +6,7 @@ preview: https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/
 ---
 
 {% capture images %}
-    https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%84%ED%95%993.jpg?alt=media&token=aa320af9-5c2f-4965-81e0-cac051511126
+https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%84%ED%95%991.jpg?alt=media&token=1992eaca-6dc7-4969-a733-21308f71c47d
 {% endcapture %}
 {% include gallery images=images caption="마카오에서." cols=1 %}
 
