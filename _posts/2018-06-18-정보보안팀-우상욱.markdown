@@ -8,7 +8,7 @@ preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%
 {% capture images %}
 https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%83%81%EC%9A%B1.jpg
 {% endcapture %}
-{% include gallery images=images caption="마카오에서." cols=1 %}
+{% include gallery images=images caption="취미는 자전거." cols=1 %}
 
 ---
 
