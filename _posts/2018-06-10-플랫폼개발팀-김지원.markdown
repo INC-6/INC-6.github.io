@@ -9,7 +9,7 @@ preview:  https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o
    https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%80%EC%9B%90.jpg?alt=media&token=ce5fc7d2-a78e-4c72-a263-5c85399e550c
    https://firebasestorage.googleapis.com/v0/b/ssg-mart-app.appspot.com/o/%EC%85%80%EC%B9%B4%2F%EC%A7%80%EC%9B%9002.jpg?alt=media&token=0e4afe42-1dd2-4889-b735-2d26ed2155fa
 {% endcapture %}
-{% include gallery images=images caption="인도여행, 전국 동아리 야구 대회에서." cols=2 %}
+{% include gallery images=images caption="인도여행, 전국 동아리 야구 대회에서." cols=3 %}
 
 ### 🔍 **부서 및 이름**
 
