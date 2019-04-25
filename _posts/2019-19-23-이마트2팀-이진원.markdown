@@ -6,8 +6,9 @@ preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%
 ---
 
 {% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9D%B4%EC%A7%84%EC%9B%901.jpg
 {% endcapture %}
-{% include gallery images=images caption="오늘이 너의 삶의 가장 젊은 날." cols=1 %}
+{% include gallery images=images caption="Do Run" cols=1 %}
 
 ---
 
@@ -33,5 +34,6 @@ preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%
 [![Video Label](https://img.youtube.com/vi/VMcHRsKUrcI/0.jpg)](https://www.youtube.com/watch?v=VMcHRsKUrcI)
 
 {% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9D%B4%EC%A7%84%EC%9B%902.jpg
 {% endcapture %}
 {% include gallery images=images caption="오늘이 너의 삶의 가장 젊은 날." cols=1 %}
