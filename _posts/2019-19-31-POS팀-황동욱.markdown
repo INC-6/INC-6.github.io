@@ -5,7 +5,10 @@ date:   2019-06-31 15:39:40
 preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191931.jpg
 ---
 
-![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191931.jpg)
+{% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%ED%99%A9%EB%8F%99%EC%9A%B1.jpg
+{% endcapture %}
+{% include gallery images=images caption="인턴 수료 후 동기들과." cols=1 %}
 
 ---
 
