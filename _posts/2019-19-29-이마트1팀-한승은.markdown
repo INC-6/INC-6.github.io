@@ -5,7 +5,9 @@ date:   2019-06-29 15:39:40
 preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191929.jpg
 ---
 
-![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%ED%95%9C%EC%8A%B9%EC%9D%80.jpg)
+{% capture images %}
+{% endcapture %}
+{% include gallery images=images caption="시골에서 갓 상경한 시골소녀 같지만 캄보디아 여행중." cols=1 %}
 
 ---
 
@@ -28,3 +30,7 @@ preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%
 #### 후에 어떤 업무를 맡든 진득하게, 또한 자기계발을 꾸준하게 하는 아이앤씨의 파릇파릇한 새싹이 되겠습니다.
     
 #### 모두 파이팅이애오:)
+
+{% capture images %}
+{% endcapture %}
+{% include gallery images=images caption="운동좋아해요" cols=1 %}
