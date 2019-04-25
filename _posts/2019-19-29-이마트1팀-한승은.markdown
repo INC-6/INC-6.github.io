@@ -6,6 +6,7 @@ preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%
 ---
 
 {% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%ED%95%9C%EC%8A%B9%EC%9D%80.jpg
 {% endcapture %}
 {% include gallery images=images caption="시골에서 갓 상경한 시골소녀 같지만 캄보디아 여행중." cols=1 %}
 
@@ -32,5 +33,6 @@ preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%
 #### 모두 파이팅이애오:)
 
 {% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%ED%95%9C%EC%8A%B9%EC%9D%8002.jpg
 {% endcapture %}
 {% include gallery images=images caption="운동좋아해요" cols=1 %}
