@@ -5,14 +5,20 @@ date:   2019-06-15 15:39:40
 preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191915.jpg
 ---
 
-![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191915.jpg)
-
+{% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EB%B0%95%EB%82%98%EC%98%81.JPG
+{% endcapture %}
+{% include gallery images=images caption="베네치아. 나영." cols=1 %}
 ---
 
 ### 🔍 **부서 및 이름**
 
 #### 에브리데이팀 박나영
+  
+### 🔔 **취미, 특기**
 
+#### 취미 & 특기: 필라테스
+  
 ### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
 
 #### 에브리데이팀에서 슈퍼시스템 공통운영 업무를 맡게된 박나영입니다.
