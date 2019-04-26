@@ -36,4 +36,4 @@ https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%
 {% capture images %}
 https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9D%B4%EC%A7%84%EC%9B%902.jpg
 {% endcapture %}
-{% include gallery images=images caption="오늘이 내생에 가장 젊은날 *^0^* " cols=1 %}
+{% include gallery images=images caption="오늘이 내생에 가장 젊은날 \*^0^\* " cols=1 %}
