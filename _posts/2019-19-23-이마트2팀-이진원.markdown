@@ -8,7 +8,7 @@ preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%
 {% capture images %}
 https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9D%B4%EC%A7%84%EC%9B%901.jpg
 {% endcapture %}
-{% include gallery images=images caption="Do Run()" cols=1 %}
+{% include gallery images=images caption="Do Run(마라톤 메달 일곱개 보유자)" cols=1 %}
 
 ---
 

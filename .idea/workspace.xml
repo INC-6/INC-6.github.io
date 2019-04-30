@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250b3abe-5a93-4177-ab71-925553aee67b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-19-23-이마트2팀-이진원.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-19-23-이마트2팀-이진원.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-19-23-이마트2팀-이진원.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="273">
-                <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+              <first_editor relative-caret-position="201">
+                <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="512" />
     <option name="width" value="1408" />
     <option name="height" value="1040" />
@@ -166,20 +167,21 @@
       <workItem from="1556073298346" duration="9734000" />
       <workItem from="1556150082786" duration="1217000" />
       <workItem from="1556172867810" duration="3940000" />
-      <workItem from="1556238242294" duration="589000" />
+      <workItem from="1556238242294" duration="1956000" />
+      <workItem from="1556589551450" duration="83000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45286000" />
+    <option name="totallyTimeSpent" value="46736000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="512" y="0" width="1408" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.26416093" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19494204" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4989154" visible="true" weight="0.45175937" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4989154" visible="true" weight="0.44370124" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010846" side_tool="true" weight="0.35187286" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3291714" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -583,8 +585,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-19-23-이마트2팀-이진원.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="273">
-            <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+          <first_editor relative-caret-position="201">
+            <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
           </first_editor>
           <second_editor />
         </state>
