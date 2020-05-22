@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-신세계 아이앤씨 2019년 상반기 신입사원을 소개합니다.
+신세계 아이앤씨 2019년 상반기 신입사원.
 
 #### **그룹연수**
 ![Picture 1](https://raw.githubusercontent.com/INC-6/inc-6.github.io/master/_asset/aboutImg/about1.JPG)
